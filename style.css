@@ -1,0 +1,18 @@
+.heading {
+    width: 80%;
+    font-size: 22px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+    background-color: grey;
+
+}
+.objects{
+    font-size: 20px;
+    color: lightsteelblue;
+}
+#camera{
+    border: 1px solid black;
+    width: 350px;
+    height: 300px; 
+}
